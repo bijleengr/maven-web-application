@@ -1,8 +1,12 @@
 pipeline {
-    agent any
-    stages{
-    stage('pull code from git'){
-	git 'https://github.com/bijleengr/maven-web-application.git'
-}
-}
+	agent any
+	stages {
+		stage("clone code"){
+			steps{ 
+			    git 'https://github.com/bijleengr/maven-web-application.git'
+			    
+			}
+		}
+	}
+    
 }

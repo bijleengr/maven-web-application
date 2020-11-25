@@ -9,15 +9,15 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to bijleengr Software Solutions.</h1>
+<h1 align="center">Welcome to bijleengr Software .</h1>
 <h1 align="center"> MSS- Very Good Training center for DevOps with AWS in Maratha Halli and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/mithunlogo.jpg" alt="" width="100">
+//		<img src="images/mithunlogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Mithun Technologies, 
+		Bijleengr technologies, 
 		Martha Halli, Above ICICI Bank, Beside Meghana Foods,
 		Bangalore,
 		+91-9980923226,+91-8296242028
